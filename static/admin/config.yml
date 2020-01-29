@@ -2,7 +2,7 @@ backend:
   name: github
   repo: eddieatkinson/gatsbyNetlifyCMS
 
-media_folder: static/assets
+media_folder: static/assets/assets
 public_folder: assets
 
 collections:
